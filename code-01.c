@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("Hello Git");
-    
+    char text[20] = "Hello Git";
+    printf("%s",text);
 }
